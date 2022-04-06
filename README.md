@@ -2,7 +2,15 @@
 
 ---
 
-The implementation of an elevator system using 8051 MicroController, and its hardware design using proteus
+The project is a simple module of an elevator system controller -using 8051 Microcontroller- which could be installed to a regular elevator in any surrounding building.</br>
+Our module takes into consideration the requests made by users whether they are inside the cabin or outside in any floor, then it prioritizes every request made to determine where it would stop the cabin and when to close or open the doors.</br>
+The code is implemented in asembly language as a practice of using a low level language in microcontoller programming and the circuit is virtually  designed using proteus simulator.
+
+```
+
+for more details check Elevator.pdf uploaded to the repository
+
+```
 
 ## **Team Members**
 
@@ -15,11 +23,11 @@ The implementation of an elevator system using 8051 MicroController, and its har
 
 ---
 
-### Task Statment
+## Final Design during opertaion
 
-**- Create a function that rotates the bulk magnetization vector.** <br/>
-**- Plot the bulk magnetization's trajectory and generate a figure representing the results.** <br/>
+![img](Results/Screenshot%20(357).png)
+![img](Results/Screenshot%20(359).png)
 
-## Summary about our implementation
+## Code Snaps
 
-**We used the Bloch equations as instructed to implemnet the function that could simulate the behaviour of the magnetization vector. In our simulation the magnetization vector is represented in a red line and it's compomnent in the XY-plane is in yellow line.**
+![img](Results/Screenshot%20(47).png)
